@@ -1,4 +1,4 @@
-# Aplicando-transfer-learning--CATxDOG
+# Treinamento de Redes Neurais com Transfer Learning
 
 Descrição do Desafio
  
